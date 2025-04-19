@@ -34,7 +34,6 @@ Develop a traffic light system using Ladder Diagram (LD) logic in CODESYS.
 
 ### Proof of Work
 - ![Logic Diagram](day2/TrafficLight_Logic.png)
-- [Demo Video](day2/TrafficLight_Demo.mp4)
 
 ### Reflection
 The traffic light project introduced me to LD programming, timer blocks (TP), and simulation debugging. Challenges included resolving runtime connection errors, overcome by restarting the CODESYS runtime.
@@ -51,9 +50,9 @@ Simulate a conveyor belt system and design a gripper in Siemens NX.
 - ✅ **Designed Complex Adjustable Gripper in Siemens NX**: Created a multi-featured gripper with a 60mm x 30mm x 15mm base, a 10mm central pivot hole, and a 20mm x 30mm x 5mm angled finger. Used multi-plane sketches (XY, XZ), extrusions, cuts, and 3mm fillets. The design supports adjustability with potential slot or pivot mechanisms.
 
 ### Proof of Work
-- [Conveyor Belt Demo Video](day3/ConveyorBelt_Demo.mp4)
 - [Gripper Screenshots](day3/Adjustable_Gripper_1.png)
 - [More Views](day3/Adjustable_Gripper_2.png)
+- [Conveyor Belt Demo Video](day3/ConveyorBelt_Demo.mp4)
 
 ### Reflection
 The conveyor belt simulation built on LD skills, with the 10-second cycle reflecting a deliberate design choice over the initial 5-second plan. The NX gripper challenged me with multi-plane modeling, leveraging Fusion 360 experience to innovate an adjustable structure. Future improvements could include dynamic assembly constraints.
