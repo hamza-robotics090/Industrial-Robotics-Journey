@@ -27,5 +27,5 @@
 ✅ Simulated conveyor belt system in CODESYS (10s cycle)
 - [Demo Video](Day3/ConveyorBelt_Demo.mp4)
 ✅ Designed complex adjustable gripper in Siemens NX
-- [Screenshots](Day3/Adjustable_Gripper_1.png) [More Views](Day3/Adjustable_Gripper_2.png)
-- 
+- [Screenshots](Adjustable_Gripper_1.png)
+- [More Views](Adjustable_Gripper_2.png)
