@@ -33,8 +33,8 @@ Develop a traffic light system using Ladder Diagram (LD) logic in CODESYS.
 - ✅ **Completed Traffic Light System in CODESYS**: Designed a three-phase traffic light (red, yellow, green) with a 10-second cycle using LD, simulated with CODESYS Control Win V3. Variables (`et1`, `et2`, `et3`) controlled the sequence.
 
 ### Proof of Work
-- ![Logic Diagram](day2/TrafficLight_Demo.mp4)
-- [Demo Video](day2/TrafficLight_Logic.png)
+- ![Logic Diagram](day2/TrafficLight_Logic.png)
+- [Demo Video](day2/TrafficLight_Demo.mp4)
 
 ### Reflection
 The traffic light project introduced me to LD programming, timer blocks (TP), and simulation debugging. Challenges included resolving runtime connection errors, overcome by restarting the CODESYS runtime.
