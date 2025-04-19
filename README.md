@@ -75,4 +75,4 @@ Enhance German technical vocabulary and explore KUKA.Sim for robotic simulation.
 - Simulate robotic arms in KUKA.Sim by Day 7.
 
 ## Contact
-Feel free to connect or collaborate! Find me on [LinkedIn](https://www.linkedin.com/in/your-profile) or reach out via email (your.email@example.com).
+Feel free to connect or collaborate! Find me on [LinkedIn](https://www.linkedin.com/in/md-hamza-malik-368643256/) or reach out via email (hamzamalik9311@gmail.com).
