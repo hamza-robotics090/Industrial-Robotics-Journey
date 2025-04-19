@@ -18,3 +18,8 @@
 ![CODESYS Installation](CODESYS-Installation.png)  
 ![Arduino LED OFF](Arduino-Blink-LED-OFF.jpg)  
 ![Arduino LED ON](Arduino-Blink-LED-ON.jpg) 
+
+## Day 2 (18 Apr 2025)
+✅ Completed traffic light system in CODESYS
+![Logic](TrafficLight_Logic.png)
+[Demo](TrafficLight_Demo.mp4)
