@@ -15,9 +15,9 @@ Welcome to my learning journey in industrial robotics, automation, and design! T
   - *der Roboter* (the robot)
 
 ### Proof of Work
-- ![CODESYS Installation](CODESYS-Installation.png)
-- ![Arduino LED OFF](Arduino-Blink-LED-OFF.jpg)
-- ![Arduino LED ON](Arduino-Blink-LED-ON.jpg)
+- ![CODESYS Installation](day1/CODESYS-Installation.png)
+- ![Arduino LED OFF](day1/Arduino-Blink-LED-OFF.jpg)
+- ![Arduino LED ON](day1/Arduino-Blink-LED-ON.jpg)
 
 ### Reflection
 This day focused on foundational setup and basic hardware testing, laying the groundwork for PLC and robotics projects. The German words will aid in reading technical manuals and collaborating with German engineers.
@@ -33,8 +33,8 @@ Develop a traffic light system using Ladder Diagram (LD) logic in CODESYS.
 - ✅ **Completed Traffic Light System in CODESYS**: Designed a three-phase traffic light (red, yellow, green) with a 10-second cycle using LD, simulated with CODESYS Control Win V3. Variables (`et1`, `et2`, `et3`) controlled the sequence.
 
 ### Proof of Work
-- ![Logic Diagram](TrafficLight_Logic.png)
-- [Demo Video](TrafficLight_Demo.mp4)
+- ![Logic Diagram](day2/TrafficLight_Demo.mp4)
+- [Demo Video](day2/TrafficLight_Logic.png)
 
 ### Reflection
 The traffic light project introduced me to LD programming, timer blocks (TP), and simulation debugging. Challenges included resolving runtime connection errors, overcome by restarting the CODESYS runtime.
@@ -51,9 +51,9 @@ Simulate a conveyor belt system and design a gripper in Siemens NX.
 - ✅ **Designed Complex Adjustable Gripper in Siemens NX**: Created a multi-featured gripper with a 60mm x 30mm x 15mm base, a 10mm central pivot hole, and a 20mm x 30mm x 5mm angled finger. Used multi-plane sketches (XY, XZ), extrusions, cuts, and 3mm fillets. The design supports adjustability with potential slot or pivot mechanisms.
 
 ### Proof of Work
-- [Conveyor Belt Demo Video](Day3/ConveyorBelt_Demo.mp4)
-- [Gripper Screenshots](Day3/Adjustable_Gripper_1.png)
-- [More Views](Day3/Adjustable_Gripper_2.png)
+- [Conveyor Belt Demo Video](day3/ConveyorBelt_Demo.mp4.mp4)
+- [Gripper Screenshots](day3/Adjustable_Gripper_1.png)
+- [More Views](day3/Adjustable_Gripper_2.png)
 
 ### Reflection
 The conveyor belt simulation built on LD skills, with the 10-second cycle reflecting a deliberate design choice over the initial 5-second plan. The NX gripper challenged me with multi-plane modeling, leveraging Fusion 360 experience to innovate an adjustable structure. Future improvements could include dynamic assembly constraints.
