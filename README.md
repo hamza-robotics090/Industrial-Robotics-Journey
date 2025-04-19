@@ -23,6 +23,7 @@
 ✅ Completed traffic light system in CODESYS
 ![Logic](TrafficLight_Logic.png)
 [Demo](TrafficLight_Demo.mp4)
+
 ## Day 3 (19 Apr 2025)
 ✅ Simulated conveyor belt system in CODESYS (10s cycle)
 - [Demo Video](Day3/ConveyorBelt_Demo.mp4)
