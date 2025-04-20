@@ -33,9 +33,12 @@ Develop a traffic light system using Ladder Diagram (LD) logic in CODESYS.
 - ✅ **Completed Traffic Light System in CODESYS**: Designed a three-phase traffic light (red, yellow, green) with a 10-second cycle using LD, simulated with CODESYS Control Win V3. Variables (`et1`, `et2`, `et3`) controlled the sequence.
 
 ### Proof of Work
-- ![Logic Diagram](day2/TrafficLight_Logic.png)
-- ![Logic Diagram](day2/TrafficLight_Logic2.png)
-- ![Logic Diagram](day2/TrafficLight_Logic3.png)
+
+- ![trafic_light_1](day3/ConveyorBelt_Demo.png)
+- ![trafic_light_2](day3/ConveyorBelt_Demo_2.png)
+- ![trafic_light_3](day3/ConveyorBelt_Demo_3.png)
+- ![trafic_light_4](day3/ConveyorBelt_Demo_4.png)
+- ![trafic_light_5](day3/ConveyorBelt_Demo_5.png)
 
 ### Reflection
 The traffic light project introduced me to LD programming, timer blocks (TP), and simulation debugging. Challenges included resolving runtime connection errors, overcome by restarting the CODESYS runtime.
@@ -54,11 +57,9 @@ Simulate a conveyor belt system and design a gripper in Siemens NX.
 ### Proof of Work
 - ![Gripper Screenshots](day3/Adjustable_Gripper_1.png)
 - ![Gripper Screenshots2](day3/Adjustable_Gripper_2.png)
-- ![ConveyorBelt1](day3/ConveyorBelt_Demo.png)
-- [ConveyorBelt2](day3/ConveyorBelt_Demo_2.png)
-- [ConveyorBelt3](day3/ConveyorBelt_Demo_3.png)
-- [ConveyorBelt4](day3/ConveyorBelt_Demo_4.png)
-- [ConveyorBelt5](day3/ConveyorBelt_Demo_5.png)
+- ![ConveyorBelt_1](day2/TrafficLight_Logic.png)
+- ![ConveyorBelt_2](day2/TrafficLight_Logic2.png)
+- ![ConveyorBelt3](day2/TrafficLight_Logic3.png)
 
 ### Reflection
 The conveyor belt simulation built on LD skills, with the 10-second cycle reflecting a deliberate design choice over the initial 5-second plan. The NX gripper challenged me with multi-plane modeling, leveraging Fusion 360 experience to innovate an adjustable structure. Future improvements could include dynamic assembly constraints.
