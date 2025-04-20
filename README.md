@@ -56,11 +56,7 @@ Simulate a conveyor belt system and design a gripper in Siemens NX.
 
 ### Proof of Work
 - ![Gripper Screenshots](day3/Adjustable_Gripper_1.png)
-- ![Gripper Screenshots2](day3/Adjustable_Gripper_2.png)
-- ![ConveyorBelt_1](day3/ConveyorBelt_Demo.png)
-- ![ConveyorBelt_2](day3/ConveyorBelt_Demo_2.png)
-- ![ConveyorBelt3](day3/ConveyorBelt_Demo_3.png)
-
+- ![Gripper Screenshots2](day3/Adjustable_Gripper_2.png) 
 ### Reflection
 The conveyor belt simulation built on LD skills, with the 10-second cycle reflecting a deliberate design choice over the initial 5-second plan. The NX gripper challenged me with multi-plane modeling, leveraging Fusion 360 experience to innovate an adjustable structure. Future improvements could include dynamic assembly constraints.
 
