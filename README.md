@@ -80,8 +80,8 @@ Feel free to connect or collaborate! Find me on [LinkedIn](https://www.linkedin.
 
 ## Day 4 (20 Apr 2025)
 ✅ Enhanced conveyor system with CODESYS HMI (Start/Stop switches and Motor Status lamp)
--![HMI Screenshot](Day4/HMI_Conveyor.png)
+-![HMI Screenshot](day4/HMI_Conveyor.png)
 ✅ Boosted German tech vocabulary with a 30 mint lesson, using doulingo and netwerkz neu a1
 ✅ Explored robotic simulation with RoboDK, simulating a 100mm arm movement
--![Simulation Screenshot](Day4/RoboDK_2.png)
--![Simulation Screenshot_2](Day4/RoboDK_Day4.png)
+-![Simulation Screenshot](day4/RoboDK_2.png)
+-![Simulation Screenshot_2](day4/RoboDK_Day4.png)
