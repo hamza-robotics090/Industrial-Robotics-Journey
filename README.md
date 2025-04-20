@@ -52,9 +52,9 @@ Simulate a conveyor belt system and design a gripper in Siemens NX.
 - ✅ **Designed Complex Adjustable Gripper in Siemens NX**: Created a multi-featured gripper with a 60mm x 30mm x 15mm base, a 10mm central pivot hole, and a 20mm x 30mm x 5mm angled finger. Used multi-plane sketches (XY, XZ), extrusions, cuts, and 3mm fillets. The design supports adjustability with potential slot or pivot mechanisms.
 
 ### Proof of Work
-- [Gripper Screenshots](day3/Adjustable_Gripper_1.png)
-- [Gripper Screenshots2](day3/Adjustable_Gripper_2.png)
-- [ConveyorBelt1](day3/ConveyorBelt_Demo.png)
+- ![Gripper Screenshots](day3/Adjustable_Gripper_1.png)
+- ![Gripper Screenshots2](day3/Adjustable_Gripper_2.png)
+- ![ConveyorBelt1](day3/ConveyorBelt_Demo.png)
 - [ConveyorBelt2](day3/ConveyorBelt_Demo_2.png)
 - [ConveyorBelt3](day3/ConveyorBelt_Demo_3.png)
 - [ConveyorBelt4](day3/ConveyorBelt_Demo_4.png)
