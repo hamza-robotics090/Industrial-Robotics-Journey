@@ -82,6 +82,6 @@ Feel free to connect or collaborate! Find me on [LinkedIn](https://www.linkedin.
 ✅ Enhanced conveyor system with CODESYS HMI (Start/Stop switches and Motor Status lamp)
 -![HMI Screenshot](day4/HMI_Conveyor.png)
 ✅ Boosted German tech vocabulary with a 30 mint lesson, using doulingo and netwerkz neu a1
-✅ Explored robotic simulation with RoboDK, simulating a 100mm arm movement
+✅ Explored robotic simulation with RoboDK, simulating a arm movement
 -![Simulation Screenshot](day4/RoboDK_2.png)
 -![Simulation Screenshot_2](day4/RoboDK_Day4.png)
