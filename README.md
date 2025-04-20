@@ -34,11 +34,11 @@ Develop a traffic light system using Ladder Diagram (LD) logic in CODESYS.
 
 ### Proof of Work
 
-- ![trafic_light_1](day2/1TrafficLight_Logic.png)
-- ![trafic_light_2](day2/TrafficLight_Logic_2.png)
-- ![trafic_light_3](day2/TrafficLight_Logic_3.png)
-- ![trafic_light_4](day2/TrafficLight_Logic_4.png)
-- ![trafic_light_5](day2/TrafficLight_Logic_5.png)
+- ![trafic_light_1](day2/TrafficLight_Logic_2.png)
+- ![trafic_light_2](day2/TrafficLight_Logic_3.png)
+- ![trafic_light_3](day2/TrafficLight_Logic_4.png)
+- ![trafic_light_4](day2/TrafficLight_Logic_5.png)
+- ![trafic_light_5](day2/1TrafficLight_Logic.png)
 
 ### Reflection
 The traffic light project introduced me to LD programming, timer blocks (TP), and simulation debugging. Challenges included resolving runtime connection errors, overcome by restarting the CODESYS runtime.
