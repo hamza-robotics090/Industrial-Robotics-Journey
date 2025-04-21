@@ -79,9 +79,9 @@ Enhance German technical vocabulary and explore KUKA.Sim for robotic simulation.
 Feel free to connect or collaborate! Find me on [LinkedIn](https://www.linkedin.com/in/md-hamza-malik-368643256/) or reach out via email (hamzamalik9311@gmail.com).
 
 ## Day 4 (20 Apr 2025)
-✅ Enhanced conveyor system with CODESYS HMI (Start/Stop switches and Motor Status lamp)
+-✅ Enhanced conveyor system with CODESYS HMI (Start/Stop switches and Motor Status lamp)
 -![HMI Screenshot](day4/HMI_Conveyor.png)
-✅ Boosted German tech vocabulary with a 30 mint lesson, using doulingo and netwerkz neu a1
-✅ Explored robotic simulation with RoboDK, simulating a arm movement
+-✅ Boosted German tech vocabulary with a 30 mint lesson, using doulingo and netwerkz neu a1
+-✅ Explored robotic simulation with RoboDK, simulating a arm movement
 -![Simulation Screenshot](day4/RoboDK_2.png)
 -![Simulation Screenshot_2](day4/RoboDK_Day4.png)
